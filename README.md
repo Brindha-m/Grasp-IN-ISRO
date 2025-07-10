@@ -68,9 +68,7 @@ pip install -r requirements.txt
    - `merra2.csv`
    - `combined_data.csv`
 
-## Usage
-
-1. Run the Streamlit application:
+4. Run the Streamlit application:
 ```bash
 streamlit run app.py
 ```
