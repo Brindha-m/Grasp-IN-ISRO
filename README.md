@@ -40,9 +40,8 @@
 ```
 Final ISRO/
 ├── app.py                 # Main Streamlit application
-├── requirements.txt       # Python dependencies
-├── README.md             # Project documentation
-└── data/                 # Dataset directory
+├── requirements.txt      
+└── data/                 
     ├── cpcb.csv          # CPCB ground measurements
     ├── insat_aod.csv     # INSAT AOD data
     └── merra2.csv        # MERRA-2 meteorological data
