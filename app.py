@@ -221,6 +221,7 @@ st.title("Grasp-IN")
 st.markdown("""
 **Ground & Satellite based Air PM Predictions in India 🌍**
 """)
+st.link_button("📂 View on GitHub and run it locally", "https://github.com/Brindha-m/Grasp-IN-ISRO/", use_container_width=False)
 
 @st.cache_data
 def load_data():
