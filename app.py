@@ -221,10 +221,27 @@ st.markdown("""
 
 # Title and description
 st.title("Grasp-IN")
-st.markdown("""
-**Ground & Satellite based Air PM Predictions in India 🌍**
-""")
+st.markdown("""**Ground & Satellite based Air PM Predictions in India 🌍** """)
+
 st.link_button(":white[📂 View on GitHub and run it locally]", "https://github.com/Brindha-m/Grasp-IN-ISRO/", use_container_width=False)
+st.markdown(
+    """
+    <a href="https://github.com/Brindha-m/Grasp-IN-ISRO/" target="_blank" style="
+        display: inline-block;
+        padding: 0.5em 1.2em;
+        background-color: #f0f0f0;
+        color: #1976d2;  /* Change this to your desired font color */
+        font-weight: bold;
+        border: none;
+        border-radius: 5px;
+        text-decoration: none;
+        font-size: 16px;
+    ">
+        📂 View on GitHub and run it locally
+    </a>
+    """,
+    unsafe_allow_html=True
+)
 
 @st.cache_data
 def load_data():
