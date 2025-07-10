@@ -17,7 +17,7 @@
 
 ### Project Flow Outline
 
-- 📊 **Data Overview**: Comprehensive analysis of CPCB, INSAT AOD, and MERRA-2 datasets
+- 📊 **Data Overview**: Comprehensive analysis of CPCB, INSAT AOD, and MERRA-2 datasets Firstly understand the structure of each using tools like Panoply.
 - 🤖 **Model Training**: Advanced ML models (Random Forest & XGBoost) with feature engineering
 - 📈 **Model Evaluation**: Detailed performance metrics and visualization
 - 🔮 **Predictions**: Location-based and spatial PM concentration predictions
