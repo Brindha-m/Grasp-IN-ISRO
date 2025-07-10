@@ -38,6 +38,9 @@ st.markdown("""
     .stText, .stMarkdown, p, div, span, label, h1, h2, h3, h4, h5, h6 {
         color: #2c3e50 !important;
     }
+    .link_button {
+        background-color: #fdf6e3 !important;
+    }
     
     /* Streamlit specific elements */
     .stApp {
@@ -210,7 +213,7 @@ st.markdown("""
     }
     
     /* Override any white text specifically */
-    .stText, .stMarkdown, .stAlert, .stMetric, .stDataFrame {
+    .stText, .stMarkdown, .stAlert, .stMetric, .stDataFrame, .stlink_button {
         color: #2c3e50 !important;
     }
 </style>
