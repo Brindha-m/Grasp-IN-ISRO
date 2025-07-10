@@ -223,7 +223,6 @@ st.markdown("""
 st.title("Grasp-IN")
 st.markdown("""**Ground & Satellite based Air PM Predictions in India 🌍** """)
 
-st.link_button(":white[📂 View on GitHub and run it locally]", "https://github.com/Brindha-m/Grasp-IN-ISRO/", use_container_width=False)
 st.markdown(
     """
     <a href="https://github.com/Brindha-m/Grasp-IN-ISRO/" target="_blank" style="
