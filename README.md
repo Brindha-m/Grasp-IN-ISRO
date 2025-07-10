@@ -1,6 +1,6 @@
 ## GRASP-IN (Ground And Satellite based Air PM Predictions in India)
 
-> Bharatiya Antariksh Hackathon 2025
+> Bharatiya Antariksh Hackathon 2025 - Team Bindas Code
 
 ### Project Overview
 
