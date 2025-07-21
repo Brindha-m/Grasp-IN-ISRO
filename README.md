@@ -10,7 +10,7 @@
 
 - Using spatial and temporal data fusion, the system prepares a comprehensive dataset involving all steps from EDA to Feature Engineering. Machine learning models (Random Forest, XGBoost) are trained to learn the relationship between satellite signals and actual ground-level PM2.5/PM10.
   
-- Our model has (date range from** 25 May – 2 June 2025 due to storage limits**) achieved outstanding accuracy, with XGBoost explaining **98% of the variance in PM2.5/PM10 (R² = 0.98) and a low RMSE of 5.5 µg/m³** . The model then predicts PM values for any location - even in regions lacking ground stations enabling nationwide, high-resolution air quality mapping.
+- Our model has (date range from **25 May – 2 June 2025 due to storage limits**) achieved outstanding accuracy, with XGBoost explaining **98% of the variance in PM2.5/PM10 (R² = 0.98) and a low RMSE of 5.5 µg/m³** . The model then predicts PM values for any location - even in regions lacking ground stations enabling nationwide, high-resolution air quality mapping.
   
 - Unlike traditional systems that rely only on ground sensors or provide limited coverage, our solution fuses satellite AOD, meteorological reanalysis, and ground station data using advanced machine learning techniques delivers accurate, real-time PM2.5/PM10 predictions for any location
 
